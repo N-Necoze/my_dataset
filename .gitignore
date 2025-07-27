@@ -1,0 +1,7 @@
+__pycache__/
+chrome-win64/
+venv_numbers3/
+
+*.env
+*.txt
+*.bat
