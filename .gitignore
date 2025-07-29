@@ -5,3 +5,4 @@ venv_numbers3/
 *.env
 *.txt
 *.bat
+*.gitconfig
